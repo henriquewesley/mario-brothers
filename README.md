@@ -7,3 +7,5 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <h2>Visão desktop</h2>
 <img src="https://github.com/henriquewesley/mario-brothers/blob/main/img/desktop-mario-brothers.png?raw=true">
+<h2>Visão mobile</h2>
+<img src="https://github.com/henriquewesley/mario-brothers/blob/main/img/mobile-mario-brothers.png?raw=true">
