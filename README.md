@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/9ffa3f37-1b4f-482a-8795-3e95dcbc720b)<h1>Mário Brothers</h1>
+<h1>Mário Brothers</h1>
+<img src="https://github.com/henriquewesley/mario-brothers/blob/main/img/logo-header.png">
 <h2>Projeto desenvolvido no curso <a href="https://rodolfomori.com.br/devclub-comercial/">DevClub Full Stack</a></h2>
 <p>Desenvolvi este site institucional para os "Irmãos Mario Bros", uma empresa fictícia de encanadores. O objetivo era criar uma experiência divertida e profissional, combinando o charme nostálgico dos personagens com a funcionalidade de um site de serviços moderno.</p>
 <h2>Tecnologias utilizadas no projeto</h2>
@@ -13,3 +14,14 @@
 ## Autor
 
 Wesley Henrique ®
+
+
+## Contato
+
+Se você tiver alguma oportunidade de trabalho ou gostaria de discutir este projeto, sinta-se à vontade para entrar em contato:
+
+* https://www.linkedin.com/in/henriquewesley/
+* whenfeof@gmail.com
+* https://wesleyhenriqueportifolio.vercel.app/
+
+Agradeço o seu interesse!
